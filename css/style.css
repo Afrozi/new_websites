@@ -40,7 +40,7 @@ li a{
     color: rgba(34, 34, 104, 0.7);
 }
 .home{
-    background: rgba(0, 0, 255, 0.5) url("image/hero.png");
+    background: rgba(0, 0, 255, 0.5) url("hero.png");
     height: 100%;
     padding: 0px 0px 15% 0px;
     background-size: cover;
